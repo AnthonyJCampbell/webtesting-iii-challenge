@@ -17,3 +17,5 @@ describe('Dashboard component',() => {
     expect(tree.toJSON()).toMatchSnapshot();
   })
 })
+
+//- shows the controls and display
